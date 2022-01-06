@@ -1,0 +1,25 @@
+.btn {
+  background-color: #FFF;
+  border-color: #81BEF7;
+  color: black; 
+}
+.btn:hover,
+.btn:focus {
+  border-color: #81BEF7;
+  background-color: #81BEF7;
+  color: #FFF; }
+.btn:active,
+.btn:visited,
+.btn:active:focus,
+.btn:active:hover {
+  border-color: #81BEF7;
+  background-color: #81BEF7;
+  color: #FFF; }
+  .btn-active {
+    background-color: #81BEF7;
+    color: #FFF;
+    border-color: #FFF;
+  }
+  .btn-margin {
+    margin-bottom: 20px;
+  }

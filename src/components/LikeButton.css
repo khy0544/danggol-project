@@ -1,0 +1,25 @@
+.heart{
+  cursor:pointer;
+  transition: transform 300ms ease;
+  font-size: 40px;
+}
+.heartColor{
+color:#FFBDBD;
+}
+
+.heart:hover{
+  transform: scale(1.1);
+}
+
+.left_chair_green{
+  background-color: #A9F5A9;
+  color: black;
+}
+.left_chair_yellow{
+  background-color: #FFe05c;
+  color: black;
+}
+.left_chair_red{
+  background-color: #F78181;
+  color: black;
+}
